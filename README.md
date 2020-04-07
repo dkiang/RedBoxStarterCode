@@ -34,3 +34,5 @@ There's a lot of interrelated stuff in here so read carefully. The constructor r
 *  Allow user to search for a movie, and display feedback
 
 As always, it is a good idea to check the documentation for the ArrayList class so you know how to add elements, remove elements, set elements, and get the size. As a tip, you may want to start with Googling "Javadocs ArrayList" and take a look at the class reference for ArrayList in the Javadocs documentation. Pay particular attention to the list of methods that ArrayList supports.
+
+Think about how you might store the movies in a way that makes searching the ArrayList as efficient as possible.
