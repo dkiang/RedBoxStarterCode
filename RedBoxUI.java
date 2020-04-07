@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class RedboxUI
+public class RedBoxUI
 {
    public static void main(String [] args)
    {
